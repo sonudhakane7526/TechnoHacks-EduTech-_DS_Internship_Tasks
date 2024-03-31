@@ -1,1 +1,1 @@
-# TechnoHacks-EduTech-_DS_Internship_Tasks
+# TechnoHacks_EduTech_DS_Internship_Tasks
